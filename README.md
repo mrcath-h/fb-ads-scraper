@@ -8,3 +8,4 @@ Este projeto funciona como uma automatização do processo de busca por publicid
 - Navega automaticamente pela Biblioteca de Anúncios do Facebook
 - Coleta informações como título, descrição e link dos anúncios
 - Salva os dados coletados em um arquivo CSV
+- Somento os anúncios ativos são listados 
